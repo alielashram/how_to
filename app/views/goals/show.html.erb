@@ -5,6 +5,6 @@
   <%= @goal.name %>
 </p>
 
-
+<%= link_to 'Create Steps', new_goal_step_path(@goal, @step) %> |
 <%= link_to 'Edit', edit_goal_path(@goal) %> |
 <%= link_to 'Back', goals_path %>
