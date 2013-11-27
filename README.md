@@ -140,3 +140,7 @@ Feel free to customize the views in any way you would like
 
 [1]: http://guides.rubyonrails.org/v3.2.13/routing.html
 [2]: https://gist.github.com/jhjguxin/3074080
+
+## License
+
+MIT: http://aliel.mit-license.org/
